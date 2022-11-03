@@ -17,3 +17,14 @@ Software: 1- Power BI/ 2- Power BI Query / 3- Microsoft Excel
 
 Main Skills: 1- Data Cleaning / 2- ETL / 3- Data Visualization
 
+<img
+  src="/Images/Executive Summary.PNG"
+  alt="Executive Summary"
+  title="Executive Summary"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="/Images/Product Detail.PNG"
+  alt="Product Detail"
+  title="Product Detail"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
